@@ -20,7 +20,10 @@ h5 {
     text-align:center;
     color:rgb(255, 255, 255);
 }
-
+p {
+    text-align:center;
+    color:rgb(255, 255, 255);
+}
 #bandeau {
     width:100%;
     height:10vh;
