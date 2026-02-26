@@ -1,40 +1,20 @@
 body{
     margin:0;
     background-color:rgb(30, 30, 30);
-    color:
-    font-size: 25px
+    
+    
     
 }
 #articlebase{
-    margin-left:148.5px
-    margin-right:148.5px
+    margin-left:148.5px;
+    margin-right:148.5px;
 }
 h1, h2, h3, h4, h5, h6 {color:rgb(255, 255, 255)}
-p {color:#bbbbbb
-  font-size: 20px
+
 }
-h1 {
-    text-align:center;
-    
-}
-h2 {
-    text-align:center;
-    
-}
-h4 {
-    text-align:center;
-    
-}
-h5 {
-    text-align:center;
-    
-}
-p {
-    text-align:center;
-    
-}
+
 #link {
-    color:rgb(0, 51, 0)
+    color:rgb(0, 51, 0);
 }
 #bandeau {
     
