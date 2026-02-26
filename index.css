@@ -33,7 +33,7 @@ p {
 #bandeau {
     
     width:100%;
-    height:25vh;
+    height:312px;
     background-color:rgb(55, 55, 55);
     border-bottom:5px rgba(40, 40, 40, 0.800);
     display:flex;
@@ -45,3 +45,7 @@ p {
     align-items:center;
     justify-content:center;
 }
+#Article{
+    width:720px;
+    height:537px;
+    
